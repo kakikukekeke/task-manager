@@ -20,4 +20,6 @@
 設計をメインで考え、コーディングなどの作業はAIにやらせることで開発時間を短くした。
 アプリに加えた変更の保存方法を学んだ。
 
+<img width="935" height="454" alt="スクリーンショット 2026-09-20 181338" src="https://github.com/user-attachments/assets/63f0b1ee-21bf-4013-9a8b-a6c58b295e6a" />
+
 
